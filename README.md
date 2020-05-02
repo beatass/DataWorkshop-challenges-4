@@ -5,8 +5,8 @@ in his fourth Machine Learning challenge for beginners named as 'NLP workshop', 
 
 ## Description of particular days:
 
-* day 1 - fbprophet installation
-* day 2 - learning what a trend is, doing visualizations and the simplest prediction
-* day 3 - learning what season and trend is, making visualizations for more complex data than before.
-* day 4 - learning the fbprophet tool, training the first model and forecasting values
-* day 5 - the second simple model and forecasting values
+* day 1 - gensim and pyLDAvis installation
+* day 2 - word2vec, gensim library and training first model
+* day 3 - notions of word2vec and topic modeling, training real data model
+* day 4 - training word2vec model and how to make phrases
+* day 5 - training doc2vec model
