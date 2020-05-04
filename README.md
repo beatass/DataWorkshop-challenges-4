@@ -1,7 +1,7 @@
 # DataWorkshop-challenges-4
 
 Here there are specific topics from 5 days challenge initialized by Vladimir Alekseichenko
-in his fourth Machine Learning challenge for beginners named as 'NLP workshop', posted in 02-06.09.2019.
+in his fourth Machine Learning challenge for beginners named as 'Introduction to Natural Language Processing (NLP)', posted in 02-06.09.2019.
 
 ## Description of particular days:
 
